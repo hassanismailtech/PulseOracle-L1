@@ -1,0 +1,19 @@
+{
+  "name": "pulseoracle-l1",
+  "version": "1.0.0",
+  "description": "Autonomous Epidemic Signal Routing via Somnia Agents",
+  "main": "agent.js",
+  "scripts": {
+    "start": "node agent.js",
+    "test": "node agent.js"
+  },
+  "keywords": [
+    "health-oracle",
+    "agent",
+    "somnia",
+    "epidemic",
+    "surveillance"
+  ],
+  "author": "Hassan Ismail",
+  "license": "MIT"
+}
